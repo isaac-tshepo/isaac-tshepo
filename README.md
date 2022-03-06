@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaac-tshepo
 - 👀 I’m interested in fullstack programming
-- 🌱 I’m currently learning Dot net
+- 🌱 I’m currently learning ASP.net
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : 0671952846
 
